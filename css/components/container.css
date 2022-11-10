@@ -1,0 +1,14 @@
+.container {
+  width: 700px;
+  margin: 50px auto;
+  display: flex;
+  flex-direction: row;
+}
+/* .container2 {
+  width: 50%;
+  margin: O auto;
+}
+.container2 .cards {
+display: flex;
+justify-content: space-around;
+} */
